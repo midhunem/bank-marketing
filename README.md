@@ -30,8 +30,7 @@ Used Accuracy and confusion matrix to evaluate the model. Model need more finetu
     4. Campaign
     5. Age
 
-### Recommendation to cut the number of calls supposing that you get a 
-"test/prediction set" of new customers every week
+### Recommendation to cut the number of calls supposing that you get a "test/prediction set" of new customers every week:
     1. Use trained model and predict whether the new customer will buy or not. 
     2. Select the customers likely to convert and whose probability of conversion is more.
   This way bank can reduce the number of calls without impacting the business.
